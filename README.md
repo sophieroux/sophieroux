@@ -11,7 +11,7 @@ Outside of this, I engineer high-performance Python/C++ pipelines, probabilistic
 ## Core Focus & Technical Stack
 
 *   **Domains:** Machine Learning Research, Bayesian Statistics, Deep Tech Architecture, Cloud Deployment
-*   **Languages:** Python (Expert), C++ (Advanced), SQL, Bash
+*   **Languages:** Python, C++, SQL, Bash
 *   **Frameworks & Tools:** PyTorch, Hugging Face, Amazon Bedrock, Google Vertex AI, Docker, Git, Linux
 *   **Academic Foundation:** M.Sc. in Physics (Grade: 1.4) | Specialization in Machine Learning & Probabilistic Data Analysis
 
