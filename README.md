@@ -1,4 +1,4 @@
-# Hi there, I'm Sophie 👋
+# Hi there, I'm Sophie! 
 
 ### Physicist → ML Researcher | Deploying Enterprise AI by day, engineering deep-tech pipelines by night.
 
@@ -8,7 +8,7 @@ Outside of this, I engineer high-performance Python/C++ pipelines, probabilistic
 
 ---
 
-## 🔬 Core Focus & Technical Stack
+## Core Focus & Technical Stack
 
 *   **Domains:** Machine Learning Research, Bayesian Statistics, Deep Tech Architecture, Cloud Deployment
 *   **Languages:** Python (Expert), C++ (Advanced), SQL, Bash
@@ -17,7 +17,7 @@ Outside of this, I engineer high-performance Python/C++ pipelines, probabilistic
 
 ---
 
-## 🚀 Active Research & Engineering Goals
+## Active Research & Engineering Goals
 
 - **Replicating SOTA Papers:** Rebuilding foundational and generative architectures from scratch using modular PyTorch.
 - **Bayesian Inference Engine:** Building high-performance data processing pipelines that combine C++ optimization with Python statistical wrappers.
